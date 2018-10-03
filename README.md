@@ -6,3 +6,6 @@ Este repositório contem minhas informações pessoais
 
 ```Aqui voce descreve a estrutura do seu site```
 
+## License 
+
+```Colocar aqui o time de licença```
